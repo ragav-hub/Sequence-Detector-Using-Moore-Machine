@@ -149,16 +149,9 @@ module tb_mooresequence;
 endmodule
 ```
 ### Simulation Output
--
--
--
--
--
+
 <img width="1919" height="1199" alt="Screenshot 2025-10-10 114234" src="https://github.com/user-attachments/assets/3a8bdc62-e7a9-4730-a641-8018ac0c99ad" />
 
--
--
--
 
 ### Result
 
